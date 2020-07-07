@@ -1,7 +1,6 @@
-# Project Title
+# Devatlas
 
-A nice project with a nice description
-
+Connects developers
 ---
 
 ## Requirements
@@ -49,21 +48,16 @@ After installing node, this project will need yarn too, so just run the followin
 
 ## Install
 
-    $ git clone https://github.com/YOUR_USERNAME/PROJECT_TITLE
+    $ git clone https://github.com/sudo-corvus/devatlas.git
     $ cd PROJECT_TITLE
-    $ yarn install
+    $ npm install
 
 ## Configure app
-
-Open `a/nice/path/to/a.file` then edit it with your settings. You will need:
-
-- A setting;
-- Another setting;
-- One more setting;
+  ADD mongoURI in config/keys.js 
 
 ## Running the project
 
-    $ yarn start
+    $ npm start
 
 ## Simple build for production
 
