@@ -1,0 +1,6 @@
+{
+    "mongoURI":"mongodb+srv://bitnet:bitnet@123@cluster0-rl1u3.mongodb.net/devconnect?retryWrites=true&w=majority",
+    "jwtSecret":"mysecrettoken",
+    "githubClientId":"",
+    "githubSecret":""
+}
